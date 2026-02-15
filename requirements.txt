@@ -1,7 +1,8 @@
 streamlit==1.28.0
-pillow==10.0.0
 numpy==1.24.0
-scikit-learn==1.3.0
-opencv-python==4.8.0
 pandas==2.0.0
+opencv-python-headless==4.8.0.74
+streamlit-drawable-canvas==0.9.3
 plotly==5.17.0
+pillow==10.0.0
+scikit-learn==1.3.0
